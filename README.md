@@ -1,5 +1,5 @@
-# EXNO2DS
-# EDA Analysis using Python
+# EXNO2 EDA Analysis using Python
+
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
